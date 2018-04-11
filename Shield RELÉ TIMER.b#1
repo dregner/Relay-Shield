@@ -76,8 +76,8 @@
 </layers>
 <board>
 <plain>
-<wire x1="0" y1="0" x2="130" y2="0" width="0" layer="20"/>
-<wire x1="130" y1="0" x2="130" y2="90" width="0" layer="20"/>
+<wire x1="0" y1="0" x2="130" y2="2" width="0" layer="20"/>
+<wire x1="130" y1="2" x2="130" y2="90" width="0" layer="20"/>
 <wire x1="130" y1="90" x2="0" y2="90" width="0" layer="20"/>
 <wire x1="0" y1="90" x2="0" y2="0" width="0" layer="20"/>
 </plain>
